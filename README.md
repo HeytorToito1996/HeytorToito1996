@@ -5,6 +5,8 @@
 <a href="https://www.linkedin.com/in/heytor-toito-de-carvalho-18435118b/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="70" height="70"/></a> <a href="https://www.facebook.com/heytor.toitodecarvalho.543/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="70" height="70">
 </a>
 
+##My Codewars Profile
+https://www.codewars.com/users/HeytorToito1996/badges/large
 
 ## Tech Stack
 I have experience with these stacks : <br/>
