@@ -6,7 +6,7 @@
 </a>
 
 ##My Codewars Profile
-https://www.codewars.com/users/HeytorToito1996/badges/large
+<img src="https://www.codewars.com/users/HeytorToito1996/badges/large">
 
 ## Tech Stack
 I have experience with these stacks : <br/>
